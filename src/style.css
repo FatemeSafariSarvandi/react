@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.part{
+    display: inline-block;
+    margin: 15px 0px 0px 20px;
+}
+#RightPart{
+    color: gray;
+    margin-left: 30px;
+    font-weight: normal;
+    font-size: 14px;
+}
+#namePart{
+    font-weight: bold;
+}
+.part>div{
+    padding-bottom: 10px;
+}
